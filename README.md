@@ -9,5 +9,4 @@ Extract Words: Traverse the string manually to extract words (consider a word as
 
 Store Words in Reverse Order: Use a loop to collect the words in reverse order.
 
-
 Rebuild the String: Reconstruct the string from the reversed words.
